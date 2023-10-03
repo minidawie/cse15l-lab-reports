@@ -1,5 +1,5 @@
 some text in it
 
-[Link](second-file.html)
+[Link](https://github.com/minidawie/cse15l-lab-reports/blob/main/second-file.html)
 
-![Image](cd no arg.png)
+![Image](https://github.com/minidawie/cse15l-lab-reports/blob/main/cd%20no%20arg.png)
