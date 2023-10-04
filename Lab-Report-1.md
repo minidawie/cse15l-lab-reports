@@ -78,8 +78,12 @@ cat in a directory
     [user@sahara ~]$ cat lecture1/
     cat: lecture1/: Is a directory
 
-- 
+- The working directory is /home/
+- When I tried to use cat to a directory it returned with a statement because there is nothing to print out from a directory.
+- This is not an error
+  
 <br />
+
 cat to a file
 
     [user@sahara ~]$ cat lecture1/Hello.java
@@ -94,3 +98,7 @@ cat to a file
         System.out.println(content);
       }
     }
+
+  - The working directory is /home/
+  - I got this output because I cat to the relative path of Hello.java. When I use the command it is attempted to print out whatever is in the file, in this case the code in Hello.java was printed out.
+  - This is not an error.
