@@ -8,4 +8,8 @@ some text in it
 
 [DifferentFormat2](./second-file.md)
 
+[LabReport](./Lab-Report-1.md)
+
+
+
 
