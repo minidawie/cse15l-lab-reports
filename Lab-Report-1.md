@@ -81,7 +81,7 @@
 
 - The working directory is `/home/`
 - When I tried to use `cat` to a directory it returned with a statement because there is nothing to print out from a directory.
-- The command that was given was an error. 'cat' is used to show a files content. Since the argument given was a directory and not a file, the terminal ran into an error. The way the terminal handled the error is by returning a message stating that the argument is a directory, not a file.
+- The command that was given was an error. `cat` is used to show a files content. Since the argument given was a directory and not a file, the terminal ran into an error. The way the terminal handled the error is by returning a message stating that the argument is a directory, not a file.
   
 <br />
 
