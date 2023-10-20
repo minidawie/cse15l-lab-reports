@@ -71,3 +71,8 @@ class StringServer {
 **A terminal interaction where you log into** `ieng6` **with your course-specific account without being asked for a password**
 
 ![Image](keylessLogin.png)
+
+# **Part 3**
+
+**In a couple of sentences, describe something you learned from lab in week 2 or 3 that you didn’t know before**
+- There were many things that were from lab that I did not know. In week 2, I worked with a very simple server, but there was so much information in even the most basic scenario. In lecture we learned about domains, urls, and queries but the information didn't digest by the time lab started. I feel like I really got a decent grasp on the concepts only after working with them hands on during lab, and even more so after lab when I was trying to build the simple search engine. During week 3 I caught a cold so I wasn't physically at lab but I went through all the steps for lab as best as I could. During week 3 I learned about mkdir and scp. mkdir stands for make directory. There are various specifications that may be used but the most simple just makes a directory in the working directory with the name specified. scp is used to copy a file to or from a remote server. Due to being sick I didn't take the skill demo during my lab period, but since most people did I feel that it is appropriate to mention that I learned the general checklist of how skill demos will happen in the future. 
