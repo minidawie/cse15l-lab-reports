@@ -44,7 +44,7 @@ class StringServer {
 
 First Screenshot of `./add-message?s=hello its me`
 
-
+![Image](StringServer1.png)
 
 - The method that is called is handleRequest
 - The relavant argument in the method is the url. The relavant fields are FullList and parameters. Before adding any messages url is new URI(https://0-0-0-0-5000-ki2ihg0o4c97p8inac8ac6kkis.us.edusercontent.com/), FullList is empty, and parameters is empty.
@@ -52,7 +52,7 @@ First Screenshot of `./add-message?s=hello its me`
 
 Second Screenshot of `./add-message?s=i was wondering if after all these years youd like to meet`
 
-
+![Image](StringServer2.png)
 
 - The method that is called is handleRequest
 - The relavant arguments and fields are the same as above but the values will be the values after adding the message "hello its me"
