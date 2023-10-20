@@ -60,4 +60,14 @@ class StringServer {
 
 # **Part 2**
 
+**The path to the private key for your SSH key for logging into** `ieng6`
 
+![Image](private_ssh_key.png)
+
+**The path to the public key for your SSH key for logging into** `ieng6`
+
+![Image](public_ssh_key.png)
+
+**A terminal interaction where you log into** `ieng6` **with your course-specific account without being asked for a password**
+
+![Image](keyless_login.png)
