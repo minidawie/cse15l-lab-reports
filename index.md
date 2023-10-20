@@ -8,7 +8,9 @@ some text in it
 
 [DifferentFormat2](./second-file.md)
 
-[LabReport](./Lab-Report-1.md)
+[LabReport1](./Lab-Report-1.md)
+
+[LabReport2](./Lab-Report-2.md)
 
 
 
