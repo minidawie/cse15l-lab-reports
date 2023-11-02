@@ -63,6 +63,7 @@ class StringServer {
 **The path to the private key for your SSH key for logging into** `ieng6`
 
 ![Image](privateKey.png)
+`./id_rsa.pub` is the private SSH key.
 
 **The path to the public key for your SSH key for logging into** `ieng6`
 
