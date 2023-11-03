@@ -172,3 +172,5 @@
   ```
   Output
   ![Image](highlighted2.png)
+  The `--color=auto` command highlights the portion of the text that is being looked for. The text was highlighted in the terminal when it was returned but when copying it over to the md file
+  the highlight got undone so I chose to use a picture to properly show what is happening.
