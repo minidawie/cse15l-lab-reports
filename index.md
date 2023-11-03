@@ -12,6 +12,8 @@ some text in it
 
 [LabReport2](./Lab-Report-2.md)
 
+[LabReport3](./Lab-Report-3.md)
+
 
 
 
