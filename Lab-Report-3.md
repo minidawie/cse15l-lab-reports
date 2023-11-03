@@ -78,7 +78,7 @@
    ./technical/biomed/gb-2002-3-11-research0062.txt:47:        different human cancer cell lines, the Stratagene universal
    ./technical/biomed/1471-2199-2-2.txt:55:        adenocarcinomas and breast cancer cell lines, 
    ```
-  What `-n` is doing is it is printing the line number where `grep` found the string in the text file.
+   What `-n` is doing is it is printing the line number where `grep` found the string in the text file.
 
 * `-C` (found through `man grep`)
   Input
