@@ -8,7 +8,7 @@
    
 6) ![ftest](report-4-ftest.png)
    Keys pressed: cd l<TAB><ENTER>, bash t<TAB><ENTER>
-   The first `<TAB>` auto-filled to lab7/. The second `<TAB>` auto-filled to `test.sh`
+   The first `<TAB>` auto-filled to lab7/. The second `<TAB>` auto-filled to test.sh
 
 7) ![codefix](report-4-code-fix.png)
    Keys pressed: vim L<TAB>.<TAB><ENTER>, /change <ENTER>, j, <CTRL>+a, :wq <ENTER>
