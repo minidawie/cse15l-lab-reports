@@ -21,5 +21,3 @@ I used to always hear people say that they made a script for some task in youtub
 complicated than I expected it to be. I can't confidently say that I am able to build a script just yet but now that I know the basics I think I would be able to struggle my way through
 creating one for some menial task that I come by.
 
-# **Part 3**
-
